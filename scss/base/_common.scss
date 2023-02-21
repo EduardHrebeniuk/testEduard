@@ -1,0 +1,16 @@
+body {
+font-family: 'Roboto', sans-serif;
+color: rgba(255, 255, 255, 1);
+background-color: #1F1032;
+}
+.list {
+list-style: none;
+}
+.link {
+text-decoration: none;
+}
+.is-hidden{
+  visibility:hidden;
+  opacity: 0;
+  pointer-events: none;
+}
